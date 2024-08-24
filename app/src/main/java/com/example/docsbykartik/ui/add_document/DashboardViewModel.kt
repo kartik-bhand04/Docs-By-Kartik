@@ -1,4 +1,4 @@
-package com.example.docsbykartik.ui.dashboard
+package com.example.docsbykartik.ui.add_document
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

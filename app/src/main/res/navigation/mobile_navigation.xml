@@ -13,9 +13,9 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.example.docsbykartik.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:name="com.example.docsbykartik.ui.add_document.Add_DocumentFragment"
+        android:label="@string/title_AddDocument"
+        tools:layout="@layout/fragment_add_document" />
 
     <fragment
         android:id="@+id/navigation_notifications"
