@@ -1,13 +1,13 @@
-package com.example.docsbykartik.ui.add_document
+package com.example.docsbykartik.ui.AddDocument
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class DashboardViewModel : ViewModel() {
+class AddDocumentFragmentViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is dashboard Fragment"
+        value = "This is add doc  Fragment"
     }
     val text: LiveData<String> = _text
 }

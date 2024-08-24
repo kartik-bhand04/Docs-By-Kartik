@@ -2,5 +2,5 @@
     <string name="app_name">Docs by Kartik</string>
     <string name="title_home">Home</string>
     <string name="title_AddDocument">Add Document</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_Setting">Setting</string>
 </resources>
